@@ -1,0 +1,9 @@
+2 Tomato___Late_blight
+9 Tomato___healthy
+1 Tomato___Early_blight
+4 Tomato___Septoria_leaf_spot
+7 Tomato___Tomato_Yellow_Leaf_Curl_Virus
+0 Tomato___Bacterial_spot
+6 Tomato___Target_Spot
+3 Tomato___Leaf_Mold
+5 Tomato___Spider_mites Two-spotted_spider_mite
